@@ -1,1 +1,1 @@
-Sorting algo
+sorting algorithms project by me
