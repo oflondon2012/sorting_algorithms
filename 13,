@@ -1,7 +1,0 @@
-  0-bubble_sort.c  1-O  1-insertion_sort_list.c  1-main.c  README.md  insertion  print_list.c  sort.h
-vagrant@ubuntu-focal:~/alx-low_level_programming/sorting_algorithms$ betty 1-insertion_sort_list.c
-
-========== 1-insertion_sort_list.c ==========
-insertion_sort_list
-vagrant@ubuntu-focal:~/alx-low_level_programming/ls
-
